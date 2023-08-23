@@ -12,7 +12,7 @@
   <tr>
       <!-- rowspan -->
       <td rowspan="1">1.16.5</td>
-      <td>Farmer's Respite</td>
+      <td>Farmer's Respite<br>Iron furnaces</td>
       <td></td>
   </tr>
 </table>
