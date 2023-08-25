@@ -3,7 +3,7 @@
 <table class="styled">
   <tr>
       <th rowspan="2"><h3>Версия</h3></th>
-      <th colspan="3"><h3>Библиотека</h3></th>
+      <th colspan="3"><h3>Моды</h3></th>
   </tr>
   <tr>
       <td>Forge</td>
