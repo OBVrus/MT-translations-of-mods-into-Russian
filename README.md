@@ -10,9 +10,13 @@
       <td>Fabric</td>
   </tr>
   <tr>
-      <!-- rowspan -->
       <td rowspan="1">1.16.5</td>
       <td>Farmer's Respite<br>Iron furnaces</td>
       <td></td>
+  </tr>
+   <tr>
+      <td rowspan="1">1.18.2</td>
+      <td colspan="1">Farmer's Respite</td>
+      <td colspan="1"></td>
   </tr>
 </table>
